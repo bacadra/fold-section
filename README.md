@@ -19,18 +19,18 @@ The levels are defined by regular expresions. The followed grammatic have built-
   * e.g.: `#$$ comment`
   * e.g.: `print('somethink') #\$#`
 * Markdown:
-  * 1: `^ *# `
-  * 2: `^ *## `
-  * 3: `^ *### `
-  * 4: `^ *#### `
-  * 5: `^ *##### `
-  * 6: `^ *###### `
-  * 7: `^ *####### `
-  * 8: `^ *######## `
-  * 9: `^ *######### `
+  * 1: `^ *# +`
+  * 2: `^ *## +`
+  * 3: `^ *### +`
+  * 4: `^ *#### +`
+  * 5: `^ *##### +`
+  * 6: `^ *###### +`
+  * 7: `^ *####### +`
+  * 8: `^ *######## +`
+  * 9: `^ *######### +`
   * e.g.: `# heading 1`
   * e.g.: `## heading 21`
-  *
+
 ## See bacadra packages for Atom IDE
 
 * [bacadra-atom](https://github.com/bacadra/bacadra-atom) general method to co-work with python bacadra package
