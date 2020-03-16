@@ -1,12 +1,17 @@
 {
   "name": "bacadra-fold",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Grammar depend custom folding system",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "keywords": ["fold", "python", "markdown", "custom"],
+  "keywords": [
+    "fold",
+    "python",
+    "markdown",
+    "custom"
+  ],
   "readmeFilename": "README.md",
   "homepage": "https://github.com/bacadra/bacadra-fold",
   "url": "https://github.com/bacadra/bacadra-fold/issues",
