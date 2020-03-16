@@ -1,7 +1,7 @@
 {
   "name": "bacadra-fold",
   "main": "./lib/main",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Grammar depend custom folding system",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
