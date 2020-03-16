@@ -1,0 +1,13 @@
+"atom-text-editor":
+  "f2": "bacadra-fold:toggle-current-lvl"
+  'alt-f2 alt-left': 'bacadra-fold:fold-TOC'
+  'alt-f2 alt-right': 'bacadra-fold:unfold-all'
+  "alt-f2 alt-1": "bacadra-fold:fold-all-lvl-1"
+  "alt-f2 alt-2": "bacadra-fold:fold-all-lvl-2"
+  "alt-f2 alt-3": "bacadra-fold:fold-all-lvl-3"
+  "alt-f2 alt-4": "bacadra-fold:fold-all-lvl-4"
+  "alt-f2 alt-5": "bacadra-fold:fold-all-lvl-5"
+  "alt-f2 alt-6": "bacadra-fold:fold-all-lvl-6"
+  "alt-f2 alt-7": "bacadra-fold:fold-all-lvl-7"
+  "alt-f2 alt-8": "bacadra-fold:fold-all-lvl-8"
+  "alt-f2 alt-9": "bacadra-fold:fold-all-lvl-9"
