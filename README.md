@@ -41,10 +41,14 @@ The levels are defined by regular expresions. The followed grammatic have built-
   * 8: `^ *.?prog/`
   * 9: `!.!`
 
-## See bacadra packages for Atom IDE
+## See another...
 
-* [bacadra-atom](https://github.com/bacadra/bacadra-atom) general method to co-work with python bacadra package
-* [bacadra-fold](https://github.com/bacadra/bacadra-fold) fold custom sections in various grammars files
-* [bacadra-hydrogen](https://github.com/bacadra/bacadra-hydrogen) additional method to compute with hydrogen atom package
-* [bacadra-outline](https://github.com/bacadra/bacadra-outline) outline document by custom marks
-* [bacadra-word-map](https://github.com/bacadra/bacadra-word-map) easy way to fast convert fixed-length word's, e.g. input greek letters
+* [bacadra-atom](https://github.com/bacadra/bacadra-atom)
+* [bacadra-bib](https://github.com/bacadra/bacadra-bib)
+* [bacadra-fold](https://github.com/bacadra/bacadra-fold)
+* [bacadra-hydrogen](https://github.com/bacadra/bacadra-hydrogen)
+* [bacadra-outline](https://github.com/bacadra/bacadra-outline)
+* [bacadra-word-map](https://github.com/bacadra/bacadra-word-map)
+* [language-bacadra](https://github.com/bacadra/language-bacadra)
+* [language-sofistik](https://github.com/bacadra/language-sofistik)
+* [sofistik-atom](https://github.com/bacadra/sofistik-atom)

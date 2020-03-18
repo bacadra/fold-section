@@ -13,7 +13,33 @@
     "custom"
   ],
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/bacadra/bacadra-fold",
-  "url": "https://github.com/bacadra/bacadra-fold/issues",
-  "repository": "https://github.com/bacadra/bacadra-fold"
+  "homepage"   : "https://github.com/bacadra/bacadra-fold",
+  "url"        : "https://github.com/bacadra/bacadra-fold",
+  "repository" : "https://github.com/bacadra/bacadra-fold",
+  "activationCommands": {
+    "atom-text-editor": [
+      "bacadra-fold:fold-current-lvl",
+      "bacadra-fold:unfold-current-lvl",
+      "bacadra-fold:toggle-current-lvl",
+      "bacadra-fold:fold-TOC",
+      "bacadra-fold:unfold-all",
+      "bacadra-fold:fold-all-lvl-1",
+      "bacadra-fold:fold-all-lvl-2",
+      "bacadra-fold:fold-all-lvl-3",
+      "bacadra-fold:fold-all-lvl-4",
+      "bacadra-fold:fold-all-lvl-5",
+      "bacadra-fold:fold-all-lvl-6",
+      "bacadra-fold:fold-all-lvl-7",
+      "bacadra-fold:fold-all-lvl-8",
+      "bacadra-fold:fold-all-lvl-9",
+      "bacadra-fold:fold-lvl-1",
+      "bacadra-fold:fold-lvl-2",
+      "bacadra-fold:fold-lvl-3",
+      "bacadra-fold:fold-lvl-4",
+      "bacadra-fold:fold-lvl-5",
+      "bacadra-fold:fold-lvl-6",
+      "bacadra-fold:fold-lvl-7",
+      "bacadra-fold:fold-lvl-8",
+      "bacadra-fold:fold-lvl-9"
+  ]}
 }
