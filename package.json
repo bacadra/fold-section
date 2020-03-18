@@ -1,7 +1,7 @@
 {
   "name": "bacadra-fold",
   "main": "./lib/main",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Grammar depend custom folding system",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -13,9 +13,9 @@
     "custom"
   ],
   "readmeFilename": "README.md",
-  "homepage"   : "https://github.com/bacadra/bacadra-fold",
-  "url"        : "https://github.com/bacadra/bacadra-fold",
-  "repository" : "https://github.com/bacadra/bacadra-fold",
+  "homepage": "https://github.com/bacadra/bacadra-fold",
+  "url": "https://github.com/bacadra/bacadra-fold",
+  "repository": "https://github.com/bacadra/bacadra-fold",
   "activationCommands": {
     "atom-text-editor": [
       "bacadra-fold:fold-current-lvl",
@@ -41,5 +41,6 @@
       "bacadra-fold:fold-lvl-7",
       "bacadra-fold:fold-lvl-8",
       "bacadra-fold:fold-lvl-9"
-  ]}
+    ]
+  }
 }
