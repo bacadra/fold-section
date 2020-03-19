@@ -1,4 +1,4 @@
-# bacadra-fold
+# fold-section
 
 It fold, unfold or toggle sections following the headers markers. The special future is to collapse all section to create view like table of content.
 
@@ -41,14 +41,14 @@ The levels are defined by regular expresions. The followed grammatic have built-
   * 8: `^ *.?prog/`
   * 9: `!.!`
 
-## See another...
+## See another bacadra packages...
 
 * [bacadra-atom](https://github.com/bacadra/bacadra-atom)
-* [bacadra-bib](https://github.com/bacadra/bacadra-bib)
-* [bacadra-fold](https://github.com/bacadra/bacadra-fold)
-* [bacadra-hydrogen](https://github.com/bacadra/bacadra-hydrogen)
-* [bacadra-outline](https://github.com/bacadra/bacadra-outline)
-* [bacadra-word-map](https://github.com/bacadra/bacadra-word-map)
+* [bib-finder](https://github.com/bacadra/bib-finder)
+* [fold-section](https://github.com/bacadra/fold-section)
+* [hydrogen-run](https://github.com/bacadra/hydrogen-run)
 * [language-bacadra](https://github.com/bacadra/language-bacadra)
 * [language-sofistik](https://github.com/bacadra/language-sofistik)
+* [navigation-pane](https://github.com/bacadra/navigation-pane)
 * [sofistik-atom](https://github.com/bacadra/sofistik-atom)
+* [word-map](https://github.com/bacadra/word-map)
