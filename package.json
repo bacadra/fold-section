@@ -2,15 +2,18 @@
   "name": "fold-section",
   "main": "./lib/main",
   "version": "0.2.2",
-  "description": "Grammar depend custom folding system",
+  "description": "Language depend custom fold pattern for Atom IDE",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "keywords": [
+    "bacadra",
     "fold",
-    "python",
+    "latex",
     "markdown",
-    "custom"
+    "python",
+    "SOFiSTiK",
+    "toc"
   ],
   "readmeFilename": "README.md",
   "homepage": "https://github.com/bacadra/fold-section",
