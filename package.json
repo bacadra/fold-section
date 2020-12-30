@@ -18,32 +18,6 @@
   "readmeFilename": "README.md",
   "homepage": "https://github.com/bacadra/fold-section",
   "url": "https://github.com/bacadra/fold-section",
-  "repository": "https://github.com/bacadra/fold-section",
-  "activationCommands": {
-    "atom-text-editor": [
-      "fold-section:fold-current-lvl",
-      "fold-section:unfold-current-lvl",
-      "fold-section:toggle-current-lvl",
-      "fold-section:fold-TOC",
-      "fold-section:unfold-all",
-      "fold-section:fold-all-lvl-1",
-      "fold-section:fold-all-lvl-2",
-      "fold-section:fold-all-lvl-3",
-      "fold-section:fold-all-lvl-4",
-      "fold-section:fold-all-lvl-5",
-      "fold-section:fold-all-lvl-6",
-      "fold-section:fold-all-lvl-7",
-      "fold-section:fold-all-lvl-8",
-      "fold-section:fold-all-lvl-9",
-      "fold-section:fold-lvl-1",
-      "fold-section:fold-lvl-2",
-      "fold-section:fold-lvl-3",
-      "fold-section:fold-lvl-4",
-      "fold-section:fold-lvl-5",
-      "fold-section:fold-lvl-6",
-      "fold-section:fold-lvl-7",
-      "fold-section:fold-lvl-8",
-      "fold-section:fold-lvl-9"
-    ]
-  }
+  "repository": "https://github.com/bacadra/fold-section"
+
 }

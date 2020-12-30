@@ -1,13 +1,4 @@
 "atom-text-editor":
-  "f2": "fold-section:toggle-current-lvl"
-  'alt-f2 alt-left': 'fold-section:fold-TOC'
+  "f2"              : "fold-section:toggle"
+  'alt-f2 alt-left' : 'fold-section:fold-TOC'
   'alt-f2 alt-right': 'fold-section:unfold-all'
-  "alt-f2 alt-1": "fold-section:fold-all-lvl-1"
-  "alt-f2 alt-2": "fold-section:fold-all-lvl-2"
-  "alt-f2 alt-3": "fold-section:fold-all-lvl-3"
-  "alt-f2 alt-4": "fold-section:fold-all-lvl-4"
-  "alt-f2 alt-5": "fold-section:fold-all-lvl-5"
-  "alt-f2 alt-6": "fold-section:fold-all-lvl-6"
-  "alt-f2 alt-7": "fold-section:fold-all-lvl-7"
-  "alt-f2 alt-8": "fold-section:fold-all-lvl-8"
-  "alt-f2 alt-9": "fold-section:fold-all-lvl-9"
